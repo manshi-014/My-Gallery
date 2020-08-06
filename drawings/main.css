@@ -1,0 +1,46 @@
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    justify-content: space-evenly;
+}
+.image{
+    width: 300px;
+    margin-top: 2em;
+    margin-left: 1em;
+    margin-bottom: 2em;
+}
+
+h1{
+    font-family: 'Ranchers', cursive;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    size: 3em;
+}
+
+.footer h2,p,strong{
+    color: white;
+}
+
+body{
+    background-image: url(wall1.jpg);
+}
+
+.navbar-item{
+    font-size: larger;
+    color: white;
+}
+.navbar-menu{
+    background-color: black;
+
+ }
+ 
+ .image{
+     width: 30%;
+     background-color: white;
+     box-shadow: 10px 10px 5px;
+  margin-bottom: 25px;
+ }
